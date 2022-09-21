@@ -1,0 +1,4 @@
+﻿  303 Assignment 1.cpp
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(40,7): warning C4101: 'num': unreferenced local variable
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(98,7): warning C4101: 'temp': unreferenced local variable
+  303 Assignment 1.vcxproj -> R:\Docs & files\CS303\303 Assignment 1\Debug\303 Assignment 1.exe
