@@ -1,0 +1,12 @@
+﻿  303 Assignment 1.cpp
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(42,7): warning C4101: 'num': unreferenced local variable
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(100,7): warning C4101: 'temp': unreferenced local variable
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(151,23): warning C4018: '<': signed/unsigned mismatch
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(196,23): warning C4018: '<': signed/unsigned mismatch
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(203,23): warning C4018: '<': signed/unsigned mismatch
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(237,23): warning C4018: '<': signed/unsigned mismatch
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(338,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(378,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(382,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+R:\Docs & files\CS303\303 Assignment 1\303 Assignment 1\303 Assignment 1.cpp(390,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  303 Assignment 1.vcxproj -> R:\Docs & files\CS303\303 Assignment 1\Debug\303 Assignment 1.exe
